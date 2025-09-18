@@ -6,6 +6,8 @@ def ejecutar_pruebas():
 
     calculadora.calcular_area_rectangulo()
     calculadora.calcular_area_triangulo()
+    calculadora.calcular_area_circulo()
     
 if __name__ == "__main__":
     ejecutar_pruebas()
+    
